@@ -16,8 +16,8 @@ Construir um modelo preditivo supervisionado capaz de identificar os principais 
 ## Estrutura
 
 - `dataset/`: Base de dados tratada e explorada
-- `notebooks/`: Scripts de análise, visualização e modelagem
-- `presentation/`: Apresentação final com insights (.pptx)
+- `notebooks/`: Scripts de análise, visualização e modelagem (.ipynb)
+- `presentation/`: Apresentação final com insights (.pdf)
 
 ## Metodologia
 
@@ -46,7 +46,7 @@ Construir um modelo preditivo supervisionado capaz de identificar os principais 
 
 ## Apresentação
 
-[Apresentação Final (.pptx)](presentation/bruna-derner-ML05.pptx)
+[Apresentação Final (.pdf)](presentation/bruna-derner-ML05.pdf)
 
 ## Vídeo de Apresentação - Loom
 
